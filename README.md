@@ -57,7 +57,9 @@ Desarrollado por:
 DASOA Linux
 https://www.dasoa.net
 
-Licencia
+
+Licencia:
+
 Este proyecto está bajo la Licencia Pública General de GNU, versión 3.0 (GNU GPL v3.0). Consulta el archivo LICENSE para obtener más información.
 
 
