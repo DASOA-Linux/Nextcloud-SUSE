@@ -52,12 +52,12 @@ Y ejecutar:
 Una vez completada la instalación, podrás acceder a Nextcloud desde tu navegador web introduciendo la dirección IP de tu servidor seguida de "/nextcloud", con el usuario Admin y la contraseña dasoalinux.
 
 
-##Desarrollado por:
+Desarrollado por:
 
 DASOA Linux
 https://www.dasoa.net
 
-##Licencia
+Licencia
 Este proyecto está bajo la Licencia Pública General de GNU, versión 3.0 (GNU GPL v3.0). Consulta el archivo LICENSE para obtener más información.
 
 
